@@ -41,8 +41,8 @@
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 💌 Email: janani.yourmail@example.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/janani-dhanasekar-715001282/)  
+- 💌 Email: jananidhana31@gmail.com  
 - 🧑‍💻 GitHub: [github.com/jananiD](https://github.com/jananiD)
 
 ---
