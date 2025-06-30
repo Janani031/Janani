@@ -43,14 +43,14 @@
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/janani-dhanasekar-715001282/)  
 - 💌 Email: jananidhana31@gmail.com  
-- 🧑‍💻 GitHub: [github.com/jananiD](https://github.com/jananiD)
+- 🧑‍💻 GitHub: [github.com/jananiD](https://github.com/Janani031)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jananiD&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=janani031&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jananiD&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janani031&layout=compact&theme=tokyonight" />
 </p>
 
 ---
