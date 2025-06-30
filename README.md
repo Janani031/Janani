@@ -25,8 +25,7 @@
 ## 🚀 Projects
 
 - 🔌 **IoT Smart Fire Extinguisher** – Real-time fire detection and alert system with sensors  
-- 🌡️ **ESP32 Smart Home Control** – Control 5 LEDs, LM35 Temperature sensor, 2 Fans & Relay using Arduino IoT Cloud  
-- 🔄 **Bluetooth Controlled Car** – App-based motor control using HC-05 Bluetooth module  
+- 🌡️ **ESP32 Smart Home Control** – Control 5 LEDs, LM35 Temperature sensor, 2 Fans & Relay using Arduino IoT Cloud    
 - 📊 **Data Analysis Projects** – Excel and Python-based analytics on small real-world datasets
 
 ---
@@ -34,7 +33,7 @@
 ## 🏆 Achievements
 
 - 🥇 Presented best IoT project in college-level tech expo  
-- 🧠 Completed internship in IoT/Embedded domain (mention if any)  
+- 🧠 Completed internship in IoT/Embedded (CavinInfoTech private ltd.,)  
 - ⚙️ Hands-on experience in integrating hardware and cloud
 
 ---
